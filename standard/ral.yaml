@@ -1,0 +1,32 @@
+#上下渐变色
+background:
+  top: "#0c252d"
+  bottom: "#0c2c35"
+accent: "#ffffff"
+#主字体色-绿色
+foreground: "#00ffb0"
+#背景图
+background_image:
+  path: standard/ral_bg.jpg
+  #背景图透明度
+  opacity: 30
+details: darker
+terminal_colors:
+  normal:
+    black: "#616161"
+    red: "#ff8272"
+    green: "#ffffff"
+    yellow: "#fefdc2"
+    blue: "#a5d5fe"
+    magenta: "#ff8ffd"
+    cyan: "#d0d1fe"
+    white: "#f1f1f1"
+  bright:
+    black: "#8e8e8e"
+    red: "#d6fcb9"
+    green: "#d6fcb9"
+    yellow: "#fefdd5"
+    blue: "#c1e3fe"
+    magenta: "#ffb1fe"
+    cyan: "#e5e6fe"
+    white: "#feffff"
